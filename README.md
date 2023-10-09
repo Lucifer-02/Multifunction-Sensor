@@ -1,5 +1,5 @@
 # Multifunction-Sensor
-# Mô tả: Hệ thống cảm biến điều khiển có thể thay đổi điều kiện dễ dàng.
+# Mô tả: Hệ thống cảm biến điều khiển với khả năng mở rộng.
 ![image](https://user-images.githubusercontent.com/84069686/117951840-c2a6fd00-b33e-11eb-8440-7b62349a1d02.png)
 * Cảm biến bất kỳ.
 * Bộ xử lý sử dụng 8051 với 3 đầu vào tín hiệu cảm biến và 8 điều kiện theo nhu cầu người dùng.
